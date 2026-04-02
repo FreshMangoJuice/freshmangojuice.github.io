@@ -1,2 +1,18 @@
 # freshmangojuice.github.io
 necht nas francl kriz zachrani
+
+## Mint WMVare Setup
+  **Setup** - typical<br>
+  **OS** - setup later<br>
+  **Disk** - 20 GB a single file<br>
+  **HW** - muzeme ponechat stejne<br> 
+_finish_ <br>
+
+  Virtual Machine Settings --> CD/DVD --> vlozit ISO<br>
+  Zapnuti program Install Linux (Podle vasich preferenci, nebo spamujte continue)<br>
+  Username: user<br>
+  Heslo: user<br> 
+_install_ <br>
+_restart now_ <br>
+
+  
