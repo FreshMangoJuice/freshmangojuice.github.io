@@ -36,5 +36,10 @@ _restart now_ <br>
 _finish_ <br>
 
   Virtual Machine Settings --> CD/DVD --> vlozit ISO<br> 
+  Power on, spamovat tlacitko, enter(zase vase preference)<br>
+  Windows Education!!!<br>
+  Proklikat -> pri doinstalovani ovladacu zakliknout nemam internet<br>
+  Settings -> Windows Update -> pozastavit na x tydnu<br>
+  
   
   
