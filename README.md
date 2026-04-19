@@ -78,4 +78,20 @@ V souboru /etc/hosts pridej: <br>
 127.0.0.1 mojetestovacistranka1.com <br>
 sudo systemctl restart apache2 jenom protoze muzu <br>
 
+## RDP (Remmina)
+Linux: sudo apt install remmina <br>
+Na Windows: searchbar - remote desktop settings -> settings -> Enable remote desktop on<br>
+Linux: otevrit program remmina rdp - ip adresa windows serveru<br>
+Zadat username a heslo Windows -> connect<br>
+
+## ADDS 
+Add roles and features -> zaskrtnout *Active Directory Domain Services*<br>
+Po instalaci vlajecka -> Post deployment configuration -> Promote this server to a domain controller:<br>
+Add a new forest, jmeno domeny treba BLABLA.local<br>
+DSRM password: Heslo123<br>
+Nezaskrtavat create DNS<br>
+NetBiosName by melo byt BLABLA<br>
+Paths nechame<br>
+Install<br>
+
   
