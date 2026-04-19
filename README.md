@@ -69,10 +69,10 @@ sudo apt install apache2 <br>
 sudo systemctl start apache2 <br>
 sudo systemctl enable apache2 <br>
 Pridat adresare do */var/www/stranka1* a do nej soubor index.html (s paragrafem treba) <br>
-V */etc/apache2/sites-available* zkopirovat soubor 000-default.conf a prejmenovat (stranka1.conf): <br>
+V */etc/apache2/sites-available* zkopirovat soubor 000-default.conf a prejmenovat (stranka1.conf): <br> <br>
 **Servername** = mojetestovacistranka1.com <br>
 **ServerAdmin** = webmaster@localhost <br>
-**DocumentRoot** /var/www/stranka1 <br>
+**DocumentRoot** /var/www/stranka1 <br> <br>
 sudo a2ensite stranka1.conf (mel by se vytvorit symlink do sites-enabled) <br>
 V souboru /etc/hosts pridej: <br>
 127.0.0.1 mojetestovacistranka1.com <br>
