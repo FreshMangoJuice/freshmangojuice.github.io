@@ -27,6 +27,7 @@ _restart now_ <br>
   Custom Install<br>
   Selectnem jedinej disk<br>
   Heslo: Windows22<br>
+  
  ## Windows Setup
   **Setup** - typical<br>
   **OS** - setup later<br>
