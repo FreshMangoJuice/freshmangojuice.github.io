@@ -28,6 +28,7 @@ _restart now_ <br>
   Selectnem jedinej disk<br>
   Heslo: Windows22<br>
 ## Windows Setup
+
   **Setup** - typical<br>
   **OS** - setup later<br>
   **Disk** - 64 GB a single file<br>
@@ -41,6 +42,7 @@ _finish_ <br>
   Settings -> Windows Update -> pozastavit na x tydnu<br>
 
 ## Samba Linux
+
   Sudo apt install samba<br>
   Vytvorit adresar k sdileni treba */home/share*
   V souboru */etc/samba/smb.conf* <br>
