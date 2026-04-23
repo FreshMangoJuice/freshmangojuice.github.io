@@ -42,7 +42,6 @@ _finish_ <br>
   Settings -> Windows Update -> pozastavit na x tydnu<br>
 
 ## Samba Linux
-
   Sudo apt install samba<br>
   Vytvorit adresar k sdileni treba */home/share*
   V souboru */etc/samba/smb.conf* <br>
@@ -92,6 +91,22 @@ Linux: sudo apt install remmina <br>
 Na Windows: searchbar - remote desktop settings -> settings -> Enable remote desktop on<br>
 Linux: otevrit program remmina rdp - ip adresa windows serveru<br>
 Zadat username a heslo Windows -> connect<br>
+
+## Windows web ISS a FTP Server
+Add server roles Web Server (IIS)<br>
+V role services zaskrtnout FTP server<br>
+Otevrit ISS manager<br>
+Pravym tlacitkem v sites - add FTP site<br>
+Pridat physical path (vytvor nejakej adresar na sdileni)<br>
+Ip adresa - All unassigned<br>
+No SSL<br>
+Zaskrtnout basic users<br>
+Allow access to all users (Read, Write)<br>
+Finish<br>
+otevrit wf.msc<br>
+Windows defender firewall properties -> Firewall **OFF** ve vsech kartach, apply<br>
+pripoj se z winscp nebo putty<br>
+
 
 ## ADDS 
 Add roles and features -> zaskrtnout *Active Directory Domain Services*<br>
