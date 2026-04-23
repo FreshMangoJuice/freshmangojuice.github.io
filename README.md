@@ -95,5 +95,9 @@ Nezaskrtavat create DNS<br>
 NetBiosName by melo byt BLABLA<br>
 Paths nechame<br>
 Install<br>
+V DHCP autorizovat predtim udelane dhcp a refresh<br>
+V network adapteru DNS zase pridat alternative DNS (8.8.8.8 nebo skolni 10.20.0.10) ADDS to prepise....<br>
+
+
 
   
