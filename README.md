@@ -41,6 +41,8 @@ _finish_ <br>
   Proklikat -> pri doinstalovani ovladacu zakliknout nemam internet<br>
   Settings -> Windows Update -> pozastavit na x tydnu<br>
 
+# U kazdeho stroje jako prvni zmenit hostname (U Windows jeste posusnout Windows Update)
+# U Windows Serveru nastavit statickou ip adresu subnet (192.168.x - podle VMWare Network Editor -> Subnet Ip)
 ## Samba Linux
   Sudo apt install samba<br>
   Vytvorit adresar k sdileni treba */home/share*
@@ -120,6 +122,8 @@ Install<br>
 V DHCP autorizovat predtim udelane dhcp a refresh<br>
 V network adapteru DNS zase pridat alternative DNS (8.8.8.8 nebo skolni 10.20.0.10) ADDS to prepise....<br>
 V jinych Windows -> Nastaveni -> System -> O systemu -> Domena nebo pracovni skupina -> Zmenit -> Je clenem domeny: blabla.local<br>
+AD Users and Computers =: vytvorit novy organizational unit (podle zadanai, ted treba zaci) -> New User -> zadat jmeno (treba jan) atd... heslo:User123, nezaskrtnout aby musel zmenit heslo pri loginu, zasktrnout *password never expires*<br>
+Pote na jinym windows prihlasit se jako jiny uzivatel -> Domena\jmeno tedy BLABLA\jan<br>
 
 
 
