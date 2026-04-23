@@ -124,6 +124,10 @@ V network adapteru DNS zase pridat alternative DNS (8.8.8.8 nebo skolni 10.20.0.
 V jinych Windows -> Nastaveni -> System -> O systemu -> Domena nebo pracovni skupina -> Zmenit -> Je clenem domeny: blabla.local<br>
 AD Users and Computers =: vytvorit novy organizational unit (podle zadanai, ted treba zaci) -> New User -> zadat jmeno (treba jan) atd... heslo:User123, nezaskrtnout aby musel zmenit heslo pri loginu, zasktrnout *password never expires*<br>
 Pote na jinym windows prihlasit se jako jiny uzivatel -> Domena\jmeno tedy BLABLA\jan<br>
+Windows Server: Group policy management -> blabla.local v Group Policy Objects -> New -> jmeno prava<br>
+Right click nove vytvorene pravo - edit -> pote enable zadano user/computer policies (pravdepodobne Administrative templates)<br>
+Dragnout to pravo do slozky zaci - zaskrtnout enforced <br>
+Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br> 
 
 
 
