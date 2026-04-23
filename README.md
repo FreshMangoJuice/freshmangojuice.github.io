@@ -27,8 +27,8 @@ _restart now_ <br>
   Custom Install<br>
   Selectnem jedinej disk<br>
   Heslo: Windows22<br>
+  
 ## Windows Setup
-
   **Setup** - typical<br>
   **OS** - setup later<br>
   **Disk** - 64 GB a single file<br>
@@ -55,7 +55,14 @@ _finish_ <br>
   Pridat user do smb: sudo smbpasswd -a user (dodat heslo) <br>
   Radsi chmod 777 adresari <br>
   sudo systemctl restart smbd (radsi zkus jeste samba) <br>
-  Ve Windows v pruzkumniku souboru \\*ipadresalinuxu*
+  Ve Windows v pruzkumniku souboru \\*ipadresalinuxu*<br>
+  
+## SSH Server BEZ KLICU (no puttygen)
+sudo apt install ssh<br>
+sudo systemctl enable ssh<br>
+sudo systemctl start ssh<br>
+sudo systemctl status ssh(pro kontrolu)<br>
+Potom pripojeni z jineho stroje<br>
 
 ## SSH Klice
 Na lokalnim Windows v puttygen vytvorit klic eddsa (zaheslovat treba Heslo123) <br>
