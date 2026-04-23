@@ -41,8 +41,8 @@ _finish_ <br>
   Proklikat -> pri doinstalovani ovladacu zakliknout nemam internet<br>
   Settings -> Windows Update -> pozastavit na x tydnu<br>
 
-# U kazdeho stroje jako prvni zmenit hostname (U Windows jeste posusnout Windows Update)
-# U Windows Serveru nastavit statickou ip adresu subnet (192.168.x - podle VMWare Network Editor -> Subnet Ip)
+## U kazdeho stroje jako prvni zmenit hostname (U Windows jeste posusnout Windows Update)
+## U Windows Serveru nastavit statickou ip adresu subnet (192.168.x - podle VMWare Network Editor -> Subnet Ip)
 ## Samba Linux
   Sudo apt install samba<br>
   Vytvorit adresar k sdileni treba */home/share*
