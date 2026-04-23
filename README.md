@@ -111,7 +111,7 @@ pripoj se z winscp nebo putty<br>
 ## ADDS 
 Add roles and features -> zaskrtnout *Active Directory Domain Services*<br>
 Po instalaci vlajecka -> Post deployment configuration -> Promote this server to a domain controller:<br>
-Add a new forest, jmeno domeny treba BLABLA.local<br>
+Add a new forest, jmeno domeny treba blabla.local<br>
 DSRM password: Heslo123<br>
 Nezaskrtavat create DNS<br>
 NetBiosName by melo byt BLABLA<br>
@@ -119,6 +119,7 @@ Paths nechame<br>
 Install<br>
 V DHCP autorizovat predtim udelane dhcp a refresh<br>
 V network adapteru DNS zase pridat alternative DNS (8.8.8.8 nebo skolni 10.20.0.10) ADDS to prepise....<br>
+V jinych Windows -> Nastaveni -> System -> O systemu -> Domena nebo pracovni skupina -> Zmenit -> Je clenem domeny: blabla.local<br>
 
 
 
