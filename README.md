@@ -163,10 +163,10 @@ Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br>
 <img width="800" height="1131" alt="Luňák_OP_page-0011" src="https://github.com/user-attachments/assets/ca063597-3ca6-4413-bbcc-ec4c0c750cc3" />
 <img width="800" height="1131" alt="Luňák_OP_page-0012" src="https://github.com/user-attachments/assets/1b20b685-8a3e-4236-a964-b57da65dd425" />
 <img width="800" height="1131" alt="Luňák_OP_page-0013" src="https://github.com/user-attachments/assets/c0d638b1-d2d8-4dfb-8cd8-2fb25c30013e" />
+<br>
 
 
-
-#CADY
+# CADY
 ## AutoCad datove rozvody v kanclu
 <img width="800" height="800" alt="Navrh_Novak16_pages-to-jpg-0006" src="https://github.com/user-attachments/assets/707af7f3-2f1f-45bc-ad45-4cb914cd5971" />
 
