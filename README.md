@@ -148,11 +148,23 @@ Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br>
 <img width="800" height="1131" alt="Zeman_domaci_prace_page-0005" src="https://github.com/user-attachments/assets/24968864-5244-41ee-9c44-8637619381a7" />
 <img width="800" height="1131" alt="Zeman_domaci_prace_page-0007" src="https://github.com/user-attachments/assets/1e933ccb-5dcd-43c6-a71e-fecb5b07a34f" />
 <img width="800" height="1131" alt="Zeman_domaci_prace_page-0006" src="https://github.com/user-attachments/assets/9ce511a5-5fa7-4302-a52c-91bac444d0d6" />
-
-
-
-
+<br>
 ## Zadani 3 (Vybaveni rodinneho domu)
+<img width="800" height="1131" alt="Luňák_OP_page-0001" src="https://github.com/user-attachments/assets/14c6f854-6937-4ca1-83f4-c02adf6fc9cb" />
+<img width="800" height="1131" alt="Luňák_OP_page-0002" src="https://github.com/user-attachments/assets/77b9ce17-f3d0-468c-b54f-d2a1f1d0527d" />
+<img width="800" height="1131" alt="Luňák_OP_page-0003" src="https://github.com/user-attachments/assets/106f8bdc-0f1c-48ee-9a99-6a6a9a286399" />
+<img width="800" height="1131" alt="Luňák_OP_page-0004" src="https://github.com/user-attachments/assets/bd162ffe-906c-43ba-b2a2-9d43e53dbce3" />
+<img width="800" height="1131" alt="Luňák_OP_page-0005" src="https://github.com/user-attachments/assets/5a6058a1-1834-4de0-952a-5a444382debe" />
+<img width="800" height="1131" alt="Luňák_OP_page-0006" src="https://github.com/user-attachments/assets/1cecf87c-5edb-4dba-a9bd-c8f16c5689e9" />
+<img width="800" height="1131" alt="Luňák_OP_page-0007" src="https://github.com/user-attachments/assets/bc80fa0e-c1bd-4d4e-b438-33a5ea498e93" />
+<img width="800" height="1131" alt="Luňák_OP_page-0008" src="https://github.com/user-attachments/assets/f4fbc4cd-92b4-4fc5-921f-4fa19b379751" />
+<img width="800" height="1131" alt="Luňák_OP_page-0009" src="https://github.com/user-attachments/assets/a5b8f3bc-29b6-495d-a794-31cf84b7a22b" />
+<img width="800" height="1131" alt="Luňák_OP_page-0010" src="https://github.com/user-attachments/assets/b4e888e8-d388-416e-99b8-a8e754c01ab8" />
+<img width="800" height="1131" alt="Luňák_OP_page-0011" src="https://github.com/user-attachments/assets/ca063597-3ca6-4413-bbcc-ec4c0c750cc3" />
+<img width="800" height="1131" alt="Luňák_OP_page-0012" src="https://github.com/user-attachments/assets/1b20b685-8a3e-4236-a964-b57da65dd425" />
+<img width="800" height="1131" alt="Luňák_OP_page-0013" src="https://github.com/user-attachments/assets/c0d638b1-d2d8-4dfb-8cd8-2fb25c30013e" />
+
+
 
 #CADY
 ## AutoCad datove rozvody v kanclu
