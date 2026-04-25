@@ -131,7 +131,7 @@ Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br>
 
 # OPB
 ## Zadani 1 (Vybaveni kancelare)
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0001" src="https://github.com/user-attachments/assets/e9302fff-069c-4e55-b2de-b441be18d16e" />
+<img width="800" height="900" alt="OP_Novak17 (1)_page-0001" src="https://github.com/user-attachments/assets/e9302fff-069c-4e55-b2de-b441be18d16e" />
 <img width="1241" height="1755" alt="OP_Novak17 (1)_page-0002" src="https://github.com/user-attachments/assets/25627382-2915-4276-810f-19880ab37c7c" />
 <img width="1241" height="1755" alt="OP_Novak17 (1)_page-0003" src="https://github.com/user-attachments/assets/5f104518-0b09-4ad5-8961-bc22aa728059" />
 <img width="1241" height="1755" alt="OP_Novak17 (1)_page-0004" src="https://github.com/user-attachments/assets/0b35df94-4900-4742-804a-ce439117e747" />
