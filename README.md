@@ -145,7 +145,8 @@ Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br>
 
 #CADY
 ## AutoCad datove rozvody v kanclu
-<img style="max-width: 100%; height: auto;" alt="Navrh_Novak16_pages-to-jpg-0006" src="https://github.com/user-attachments/assets/90857346-7551-4040-a3c1-e833654ca065" />
+<img width="3509" height="2482" alt="Navrh_Novak16_pages-to-jpg-0006" src="https://github.com/user-attachments/assets/707af7f3-2f1f-45bc-ad45-4cb914cd5971" />
+
 
 Nezapomenout na vyber Rackove skrine, metaliku CAT6a, Datovou zasuvku, pristupovy bod a podlahovou krabici<br>
 
