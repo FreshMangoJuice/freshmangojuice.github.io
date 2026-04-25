@@ -132,13 +132,13 @@ Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br>
 # OPB
 ## Zadani 1 (Vybaveni kancelare)
 <img width="894" height="1414" alt="OP_Novak17 (1)_page-0001" src="https://github.com/user-attachments/assets/e9302fff-069c-4e55-b2de-b441be18d16e" />
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0002" src="https://github.com/user-attachments/assets/25627382-2915-4276-810f-19880ab37c7c" />
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0003" src="https://github.com/user-attachments/assets/5f104518-0b09-4ad5-8961-bc22aa728059" />
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0004" src="https://github.com/user-attachments/assets/0b35df94-4900-4742-804a-ce439117e747" />
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0005" src="https://github.com/user-attachments/assets/4a313abb-041d-420e-8c98-e5e414040e01" />
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0006" src="https://github.com/user-attachments/assets/94101295-e9ab-4aad-a638-94d4e39203e3" />
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0007" src="https://github.com/user-attachments/assets/61d73bd2-28ef-4400-a349-b3a6804ed1db" />
-<img width="1241" height="1755" alt="OP_Novak17 (1)_page-0008" src="https://github.com/user-attachments/assets/9537117b-f779-481f-bdc1-a4809861a190" />
+<img width="894" height="1414" alt="OP_Novak17 (1)_page-0002" src="https://github.com/user-attachments/assets/25627382-2915-4276-810f-19880ab37c7c" />
+<img width="894" height="1414" alt="OP_Novak17 (1)_page-0003" src="https://github.com/user-attachments/assets/5f104518-0b09-4ad5-8961-bc22aa728059" />
+<img width="894" height="1414" alt="OP_Novak17 (1)_page-0004" src="https://github.com/user-attachments/assets/0b35df94-4900-4742-804a-ce439117e747" />
+<img width="894" height="1414" alt="OP_Novak17 (1)_page-0005" src="https://github.com/user-attachments/assets/4a313abb-041d-420e-8c98-e5e414040e01" />
+<img width="894" height="1414" alt="OP_Novak17 (1)_page-0006" src="https://github.com/user-attachments/assets/94101295-e9ab-4aad-a638-94d4e39203e3" />
+<img width="894" height="1414" alt="OP_Novak17 (1)_page-0007" src="https://github.com/user-attachments/assets/61d73bd2-28ef-4400-a349-b3a6804ed1db" />
+<img width="894" height="1414" alt="OP_Novak17 (1)_page-0008" src="https://github.com/user-attachments/assets/9537117b-f779-481f-bdc1-a4809861a190" />
 <br>
 ## Zadani 2 (Vybaveni Skoly)
 ## Zadani 3 (Vybaveni rodinneho domu)
