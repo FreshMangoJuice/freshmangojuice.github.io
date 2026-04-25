@@ -1,6 +1,6 @@
 # freshmangojuice.github.io
 necht nas francl kriz zachrani
-
+# OPA 
 ## Mint WMVare Setup
   **Setup** - typical<br>
   **OS** - setup later<br>
