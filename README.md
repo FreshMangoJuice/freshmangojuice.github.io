@@ -94,6 +94,11 @@ Na Windows: searchbar - remote desktop settings -> settings -> Enable remote des
 Linux: otevrit program remmina rdp - ip adresa windows serveru<br>
 Zadat username a heslo Windows -> connect<br>
 
+## VNC Server
+sudo apt install x11vnc<br>
+x11vnc -storepasswd<br>
+x11vnc -usepw<br>
+
 ## Windows web ISS a FTP Server
 Add server roles Web Server (IIS)<br>
 V role services zaskrtnout FTP server<br>
