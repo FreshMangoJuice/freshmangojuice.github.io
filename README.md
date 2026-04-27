@@ -129,49 +129,6 @@ Right click nove vytvorene pravo - edit -> pote enable zadano user/computer poli
 Dragnout to pravo do slozky zaci - zaskrtnout enforced <br>
 Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br> 
 
-# OPB
-## Zadani 1 (Vybaveni kancelare)
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0001" src="https://github.com/user-attachments/assets/e9302fff-069c-4e55-b2de-b441be18d16e" />
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0002" src="https://github.com/user-attachments/assets/25627382-2915-4276-810f-19880ab37c7c" />
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0003" src="https://github.com/user-attachments/assets/5f104518-0b09-4ad5-8961-bc22aa728059" />
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0004" src="https://github.com/user-attachments/assets/0b35df94-4900-4742-804a-ce439117e747" />
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0005" src="https://github.com/user-attachments/assets/4a313abb-041d-420e-8c98-e5e414040e01" />
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0006" src="https://github.com/user-attachments/assets/94101295-e9ab-4aad-a638-94d4e39203e3" />
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0007" src="https://github.com/user-attachments/assets/61d73bd2-28ef-4400-a349-b3a6804ed1db" />
-<img width="800" height="1131" alt="OP_Novak17 (1)_page-0008" src="https://github.com/user-attachments/assets/9537117b-f779-481f-bdc1-a4809861a190" />
-<br>
-## Zadani 2 (Vybaveni Skoly)
-<img width="800" height="1131" alt="Zeman_domaci_prace_page-0002" src="https://github.com/user-attachments/assets/6214a2a7-2257-4a46-ad53-60b9cdab1e4f" />
-<img width="800" height="1131" alt="Zeman_domaci_prace_page-0001" src="https://github.com/user-attachments/assets/d08d7f5c-c90c-459b-92ea-f18d88ac3f82" />
-<img width="800" height="1131" alt="Zeman_domaci_prace_page-0003" src="https://github.com/user-attachments/assets/414bb6f2-26c6-4330-9fe9-f1546be5a3eb" />
-<img width="800" height="1131" alt="Zeman_domaci_prace_page-0004" src="https://github.com/user-attachments/assets/1d10bba9-5202-492f-8fb2-ea7f79947ccf" />
-<img width="800" height="1131" alt="Zeman_domaci_prace_page-0005" src="https://github.com/user-attachments/assets/24968864-5244-41ee-9c44-8637619381a7" />
-<img width="800" height="1131" alt="Zeman_domaci_prace_page-0007" src="https://github.com/user-attachments/assets/1e933ccb-5dcd-43c6-a71e-fecb5b07a34f" />
-<img width="800" height="1131" alt="Zeman_domaci_prace_page-0006" src="https://github.com/user-attachments/assets/9ce511a5-5fa7-4302-a52c-91bac444d0d6" />
-<br>
-## Zadani 3 (Vybaveni rodinneho domu)
-<img width="800" height="1131" alt="Luňák_OP_page-0001" src="https://github.com/user-attachments/assets/14c6f854-6937-4ca1-83f4-c02adf6fc9cb" />
-<img width="800" height="1131" alt="Luňák_OP_page-0002" src="https://github.com/user-attachments/assets/77b9ce17-f3d0-468c-b54f-d2a1f1d0527d" />
-<img width="800" height="1131" alt="Luňák_OP_page-0003" src="https://github.com/user-attachments/assets/106f8bdc-0f1c-48ee-9a99-6a6a9a286399" />
-<img width="800" height="1131" alt="Luňák_OP_page-0004" src="https://github.com/user-attachments/assets/bd162ffe-906c-43ba-b2a2-9d43e53dbce3" />
-<img width="800" height="1131" alt="Luňák_OP_page-0005" src="https://github.com/user-attachments/assets/5a6058a1-1834-4de0-952a-5a444382debe" />
-<img width="800" height="1131" alt="Luňák_OP_page-0006" src="https://github.com/user-attachments/assets/1cecf87c-5edb-4dba-a9bd-c8f16c5689e9" />
-<img width="800" height="1131" alt="Luňák_OP_page-0007" src="https://github.com/user-attachments/assets/bc80fa0e-c1bd-4d4e-b438-33a5ea498e93" />
-<img width="800" height="1131" alt="Luňák_OP_page-0008" src="https://github.com/user-attachments/assets/f4fbc4cd-92b4-4fc5-921f-4fa19b379751" />
-<img width="800" height="1131" alt="Luňák_OP_page-0009" src="https://github.com/user-attachments/assets/a5b8f3bc-29b6-495d-a794-31cf84b7a22b" />
-<img width="800" height="1131" alt="Luňák_OP_page-0010" src="https://github.com/user-attachments/assets/b4e888e8-d388-416e-99b8-a8e754c01ab8" />
-<img width="800" height="1131" alt="Luňák_OP_page-0011" src="https://github.com/user-attachments/assets/ca063597-3ca6-4413-bbcc-ec4c0c750cc3" />
-<img width="800" height="1131" alt="Luňák_OP_page-0012" src="https://github.com/user-attachments/assets/1b20b685-8a3e-4236-a964-b57da65dd425" />
-<img width="800" height="1131" alt="Luňák_OP_page-0013" src="https://github.com/user-attachments/assets/c0d638b1-d2d8-4dfb-8cd8-2fb25c30013e" />
-<br>
-
-
-# CADY
-## AutoCad datove rozvody v kanclu
-<img width="800" height="600" alt="Navrh_Novak16_pages-to-jpg-0006" src="https://github.com/user-attachments/assets/707af7f3-2f1f-45bc-ad45-4cb914cd5971" />
-
-
-Nezapomenout na vyber Rackove skrine, metaliku CAT6a, Datovou zasuvku, pristupovy bod a podlahovou krabici<br>
 
 
 
