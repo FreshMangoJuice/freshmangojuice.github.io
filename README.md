@@ -135,6 +135,9 @@ Dragnout to pravo do slozky zaci - zaskrtnout enforced <br>
 Na Windows 11 pokud nefunguje cmd - gpupdate /force a odhlasit uzivatele <br> 
 
 
+->maturitaop.github.io
+
+
 
 
   
